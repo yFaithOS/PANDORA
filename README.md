@@ -1,2 +1,2 @@
 # PANDORA
-Created by Spck.io
+Created by HORIZON (yZeroOS)
