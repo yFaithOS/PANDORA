@@ -18,6 +18,10 @@ class Loader extends PluginBase {
         }
         self::$object = $this;
     }
+    
+    public function onEnable() {
+        
+    }
 
 }
 
